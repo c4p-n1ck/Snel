@@ -1,0 +1,19 @@
+{
+  "$schema": "https://x.nest.land/eggs@0.3.10/src/schema.json",
+  "name": "VulnerableSnel4PenTestZ",
+  "entry": "./cli.ts",
+  "description": "offsec project. over git.",
+  "homepage": "https://github.com/Pamir-Academy/api-zoo-rasik-park.www",
+  "version": "0.1.0",
+  "releaseType": "minor",
+  "unstable": true,
+  "unlisted": true,
+  "files": [],
+  "ignore": [
+    "README.md"
+  ],
+  "checkFormat": false,
+  "checkTests": false,
+  "checkInstallation": false,
+  "check": true
+}
